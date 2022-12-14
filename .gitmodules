@@ -1,0 +1,3 @@
+[submodule "u-shape3D"]
+	path = u-shape3D
+	url = https://github.com/DanuserLab/u-shape3D.git
