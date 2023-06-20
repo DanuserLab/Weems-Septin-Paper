@@ -1,5 +1,5 @@
 # Weems-Septin-Paper
-This bundle contains code used in “Blebs Promote Cell Survival by Assembling Oncogenic Signaling Hubs” by Weems et al. (bioRxiv preprint can be found [here](https://doi.org/10.1101/2021.04.23.441200) – final manuscript currently under revision) and are shared to give the interested reader an opportunity to review and reuse our code. Additional information can be found in the Methods section of this paper.
+This bundle contains code used in [**Blebs Promote Cell Survival by Assembling Oncogenic Signaling Hubss**](https://doi.org/10.1038/s41586-023-05758-6), *Nature*, 2023, 615, 517–525, written by Weems, A.D., Welf, E.S., Driscoll, M.K. et al. Additional information can be found in the Methods section of this paper.
 
 **3D Surface Distribution Analysis** – post-processing MATLAB scripts designed to analyze signal distributions on and near u-Shape3D-generated cell surfaces.
 
@@ -12,3 +12,8 @@ This bundle contains code used in “Blebs Promote Cell Survival by Assembling O
 **Timeseries Analysis** – Python code used to analyze septin and curvature dynamics in high-speed timelapse data. The code bundle currently lacks certain pre-processing steps (rigid/non-rigid registration, curvature/intensity measurement, and smoothing) that were performed using a large python library currently being developing into an independent software pipeline. This new software package will be submitted for publication in late summer of 2022 and posted in a new repository at that time. Pertinent code from this library is shared for transparent documentation of the analyses performed in the manuscript by Weems et al (see timeSeriesAnalysis Preprocessing.pdf). Upon release of the entire library, the present README.md file will be updated to reflect the availability of a fully functional pre-processing pipeline.
 
 **Post-Processing Scripts** – MATLAB code that analyzes u-Shape3D output and returns various measurements used in the paper, such as surface intensity as a function of curvature, intensity as a function of distance from bleb edge, fraction of cell surfaces comprised of blebs, etc. 
+
+## Danuser Lab Links
+[Danuser Lab Website](https://www.danuserlab-utsw.org/)
+
+[Software Links](https://github.com/DanuserLab/)
