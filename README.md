@@ -14,6 +14,4 @@ This bundle contains code used in [**Blebs Promote Cell Survival by Assembling O
 **Post-Processing Scripts** – MATLAB code that analyzes u-Shape3D output and returns various measurements used in the paper, such as surface intensity as a function of curvature, intensity as a function of distance from bleb edge, fraction of cell surfaces comprised of blebs, etc. 
 
 ## Danuser Lab Links
-[Danuser Lab Website](https://www.danuserlab-utsw.org/)
-
 [Software Links](https://github.com/DanuserLab/)
